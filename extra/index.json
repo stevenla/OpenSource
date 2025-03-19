@@ -1429,6 +1429,14 @@
 			},
 			"icon": "encore",
 			"type": "custom"
+		},
+		{
+			"ids": [ "fortnite", "fnf", "fnfestival", "fortnitefestival" ],
+			"names": {
+				"en-US": "Fortnite Festival"
+			},
+			"icon": "fortnite",
+			"type": "game"
 		}
 	]
 }
